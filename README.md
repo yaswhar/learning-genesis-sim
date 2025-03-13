@@ -6,3 +6,4 @@
 2. Visualization & Rendering
 3. Control Your Robot
 4. Parallel Simulation
+5. Inverse Kinematics & Motion Planning
