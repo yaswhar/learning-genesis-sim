@@ -5,3 +5,4 @@
 1. Hello Genesis
 2. Visualization & Rendering
 3. Control Your Robot
+4. Parallel Simulation
