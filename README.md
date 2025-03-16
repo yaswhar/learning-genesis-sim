@@ -9,6 +9,15 @@
 5. Inverse Kinematics & Motion Planning
 6. Advanced & Parallel IK
 
+   https://github.com/user-attachments/assets/5cc75f8c-0aeb-4aa9-b924-5cee43a65f96
 
-https://github.com/user-attachments/assets/5cc75f8c-0aeb-4aa9-b924-5cee43a65f96
+7. 1. Liquid Simulation
+   
+   https://github.com/user-attachments/assets/ce974f28-df75-4b57-8200-32ae2d0233e5
+   
+   2. Cloth Simulation
+
+
+ 
+
 
