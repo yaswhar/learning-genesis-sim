@@ -1,6 +1,6 @@
 # learning-genesis-sim
 
-[Documentation](https://genesis-world.readthedocs.io/en/latest/user_guide/index.html)
+I have made this repo to learn Genesis by implementing the examples in [Documentation](https://genesis-world.readthedocs.io/en/latest/user_guide/index.html).
 
 1. Hello Genesis
 2. Visualization & Rendering
@@ -19,7 +19,7 @@
 
       https://github.com/user-attachments/assets/f3c2d0a8-4655-42e1-848f-045b3b1f1bf7
 
-
+8. Muscle
 
  
 
