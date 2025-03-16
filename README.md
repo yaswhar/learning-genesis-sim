@@ -8,4 +8,4 @@
 4. Parallel Simulation
 5. Inverse Kinematics & Motion Planning
 6. Advanced & Parallel IK
-   [Video](https://github.com/yaswhar/learning-genesis-sim/blob/main/download.mp4)
+   [![Video]()](https://github.com/yaswhar/learning-genesis-sim/blob/main/download.mp4)
