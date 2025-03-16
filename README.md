@@ -13,9 +13,12 @@
 
 7. 1. Liquid Simulation
    
-   https://github.com/user-attachments/assets/ce974f28-df75-4b57-8200-32ae2d0233e5
+      https://github.com/user-attachments/assets/ce974f28-df75-4b57-8200-32ae2d0233e5
    
    2. Cloth Simulation
+
+      https://github.com/user-attachments/assets/f3c2d0a8-4655-42e1-848f-045b3b1f1bf7
+
 
 
  
